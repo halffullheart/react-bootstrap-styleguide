@@ -1,0 +1,5 @@
+{{{
+  "bsSize": ["xsmall", "small", null, "large"],
+  "bsStyle": [null, "primary", "success", "info", "warning", "danger", "link"]
+}}}
+<Button>Button</Button>

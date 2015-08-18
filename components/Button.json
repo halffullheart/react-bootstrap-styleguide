@@ -1,0 +1,25 @@
+{
+  "name": "Button",
+  "properties": {
+    "bsSize": {
+      "disposition": "react-prop",
+      "dataType": ["xsmall", "small", "medium", "large"],
+      "default": "medium"
+    },
+    "bsStyle": {
+      "disposition": "react-prop",
+      "dataType": ["default", "primary", "success", "info", "warning", "danger", "link"],
+      "default": "default"
+    },
+    "block": {
+      "disposition": "react-prop",
+      "dataType": "bool",
+      "default": false
+    },
+    "active": {
+      "disposition": "react-prop",
+      "dataType": "bool",
+      "default": false
+    }
+  }
+}
